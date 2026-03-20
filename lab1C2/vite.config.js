@@ -4,5 +4,6 @@ import vue from '@vitejs/plugin-vue'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: '/LAB1C2/'
+  base: "/lab1_C2/"
+  
 })
