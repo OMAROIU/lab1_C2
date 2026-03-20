@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>📝 Gestor de Tareas</h1>
+    <h1>Gestor de Tareas</h1>
 
     <!-- INPUT -->
     <input v-model="nuevaTarea" placeholder="Escribe una tarea">
